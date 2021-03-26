@@ -1,3 +1,6 @@
+/*
+g++ ch14.cpp -o ch14
+*/
 #include "std_lib_facilities.h"
 
 class B1
